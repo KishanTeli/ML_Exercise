@@ -104,7 +104,7 @@ Feel free to fork this project, open issues, and submit pull requests! Contribut
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](ML_Exercise/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
