@@ -52,7 +52,7 @@ You’ll have plenty of opportunities to practice these concepts with the datase
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your_username/ML_Exercise.git
+git clone https://github.com/KishanTeli/ML_Exercise.git
 cd ML_Exercise
 ```
 
@@ -65,3 +65,11 @@ cd ML_Exercise
 Let the **magic** of machine learning take you on an adventure through data! Each folder in this repo offers a unique learning experience, so don't hesitate to explore all three projects.
 
 Happy coding! 😊
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Enjoy exploring the MAGIC Gamma Telescope dataset and have fun building models!
