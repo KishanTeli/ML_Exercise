@@ -47,7 +47,7 @@ To run the notebook:
 1. Clone this repository:
 
 ```bash
-git clone [https://github.com/your_username/Magic_data_ML.git](https://github.com/KishanTeli/ML_Exercise.git)
+git clone https://github.com/your_username/Magic_data_ML.git
 cd Magic_data_ML
 ```
 
