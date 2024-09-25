@@ -45,7 +45,8 @@ To run the notebook:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your_username/SeoulBike_data_ML.git
+git clone https://github.com/KishanTeli/ML_Exercise.git
+cd ML_Exercise
 cd SeoulBike_data_ML
 ```
 
@@ -103,7 +104,7 @@ Feel free to fork this project, open issues, and submit pull requests! Contribut
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](ML_Exercise\LICENSE) file for details.
 
 ---
 
