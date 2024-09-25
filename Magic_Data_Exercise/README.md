@@ -48,7 +48,8 @@ To run the notebook:
 
 ```bash
 git clone https://github.com/KishanTeli/ML_Exercise.git
-cd Magic_data_ML
+cd ML_Exercise
+cd Magic_Data_Exercise
 ```
 
 2. Launch Jupyter Notebook:
