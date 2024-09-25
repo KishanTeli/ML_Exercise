@@ -36,6 +36,12 @@ ML_Exercise/
 
 Each project folder has its own **README.md** file that provides detailed instructions on how to use the included Jupyter notebooks and datasets.
 
+## 🌐 Dataset Resources
+
+- **MAGIC Gamma Telescope Dataset**: [Link to dataset](https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope)
+- **Seoul Bike Sharing Demand Dataset**: [Link to dataset](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
+- **Seeds/Wheat Dataset**: [Link to dataset](https://archive.ics.uci.edu/dataset/236/seeds)
+
 ## 🧠 Learn Machine Learning in a Fun Way
 
 Machine learning is all about teaching computers to learn patterns from data and make predictions or decisions. Here are some fun facts about ML:
