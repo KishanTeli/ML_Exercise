@@ -8,7 +8,7 @@ The repository contains the following files:
 ## 📂 Folder Structure
 
 ```
-Magic_data_ML/
+Magic_Data_Exercise/
 │
 ├── magic_Analyis.ipynb      # Jupyter Notebook for analysis and model building
 ├── magic04.data             # The main dataset in CSV format
